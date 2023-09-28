@@ -132,8 +132,10 @@ Anyone and everyone is welcome to [contribute](https://github.com/esri/contribut
 
 1. Get involved
 2. Report issues
-3. Contribute code
+3. Contribute code **
 4. Improve documentation
+   
+**Roadmap for future development changes in this repo coming soon. (APete)
 
 ## MDTOC
 
@@ -152,6 +154,11 @@ Unless required by applicable law or agreed to in writing, software distributed 
 A copy of the license is available in the repository's [LICENSE](LICENSE) file.
 
 For information about licensing your deployed app, see [License your app](https://developers.arcgis.com/net/license-and-deployment/license/).
+
+
+2023 Arance Pete
+
+Licensed as above for all extensions minus branding. 
 
 ### 3rd-party component licensing
 
